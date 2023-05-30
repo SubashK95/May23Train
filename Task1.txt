@@ -1,0 +1,59 @@
+UseCase1:
+			Create Groups:
+					Admin
+					NetworkAdmin
+					SysAdmin
+					DBAdmin
+					Devops
+					AppAdmin
+					
+					
+			Associate Permissions:
+					Admin -- AdministratorAccess
+					NetworkAdmin -- NetworkAdminstrator
+					SysAdmin -- SystemAdminstrator
+					DBAdmin -- Database Administrator
+					Devops -- PowerUserAccess
+					AppAdmin -- AdminstratorAccess-ElasticBeanstalk
+					
+					
+			Create Users:
+					adminuser1
+					adminuser2
+					adminuser3
+					adminuser4
+					adminUser5
+					
+					nwadminuser1
+					nwadminuser2
+					nwadminuser3
+					nwadminuser4
+					nwadminuser5
+					
+					
+					sysadminuser1
+					sysadminuser2
+					sysadminuser3
+					sysadminuser4
+					sysadminuser5
+					
+					devopsuser1
+					devopsuser2
+					devopsuser3
+					devopsuser4
+					devopsuser5
+					
+					appuser1
+					appuser2
+					appuser3
+					appuser4
+					appuser5
+					
+					dbuser1
+					dbuser2
+					dbuser3
+					dbuser4
+					dbuser5
+					
+					
+			Add Above users to appropriate Groups

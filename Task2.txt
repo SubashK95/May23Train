@@ -1,0 +1,16 @@
+1. Create Custom Policy with below conditions:
+		a. MFA Enabled
+		b. SourceIP
+		c. Region
+		d. Evaluate other Conditions and come up findings.
+		
+2. Create an IAM Role for 
+		a. EC2
+		b. Lambda
+		c. Evaluate Trust Relationships
+		
+3. Download Credential Report and share your findings
+
+4. Enable Billing Access to AWS IAM Users
+
+5. Enable Password Policy - length 10 characters, Upper Case, Lower Case, Expiration.
